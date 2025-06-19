@@ -1,1 +1,1 @@
-New Dog
+Add new Dog removed previous one
