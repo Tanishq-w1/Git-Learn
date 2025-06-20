@@ -1,7 +1,9 @@
+Add new cat removed previous one
 New Cat
 
 My name is Kitty
 
+How are you ??
 cat added
 Myself Kittu
 
