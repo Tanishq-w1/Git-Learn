@@ -1,10 +1,6 @@
-Add new Dog removed previous one
-New Dog
-
-My name bob 
-
-How are you ??
-Dog name
-Myself Bobu
 
 hello
+Myself Bobu
+
+
+hello there ??
